@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.exe.config
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.exe
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.pdb
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.exe
+D:\Mphasis\Assested Projects\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.pdb
